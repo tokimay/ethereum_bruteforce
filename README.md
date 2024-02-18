@@ -1,4 +1,4 @@
-Install requeriment <br />
+Install requeriment: <br />
 ````shell
 $ pip install pysha3
 $ pip install coincurve
