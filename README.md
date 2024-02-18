@@ -1,9 +1,8 @@
-usage: <br />
-install Requeriment <br />
+Install requeriment <br />
 ````shell
-pip install pysha3
-pip install coincurve
-pip install web3
+$ pip install pysha3
+$ pip install coincurve
+$ pip install web3
 ````
 Run:  <br />
 ````shell
