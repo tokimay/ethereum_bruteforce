@@ -55,6 +55,4 @@ while balance == 0:
         file.write(str(balance))
 
         file.close()
-        with open('Address_list_temp' + str(fileCounter) + '.txt', 'a') as fp:
-            for ad in addLst:
-                fp.write(f"{ad}\n")
+
