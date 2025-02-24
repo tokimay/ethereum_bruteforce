@@ -1,9 +1,7 @@
 
-````text
 Generate a random ethereum random address.
 Check address balance return secrets if the balance is not zero.
-Your chance is :disappointed:
-````
+Your chance is :stuck_out_tongue_winking_eye:
 
 Install requirement: <br />
 ````shell
