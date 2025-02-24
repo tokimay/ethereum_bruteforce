@@ -1,5 +1,5 @@
 
-Generate a random ethereum random address. </br>
+Generate a random ethereum address. </br>
 Check address balance return secrets if the balance is not zero. </br>
 Your chance is :disappointed: </br>
 
