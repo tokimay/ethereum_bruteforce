@@ -1,6 +1,6 @@
 
 Generate a random ethereum address. </br>
-Check address balance return secrets if the balance is not zero. </br>
+Check address balance and return secrets if the balance is not zero. </br>
 Your chance is :disappointed: </br>
 
 Install requirement: <br />
